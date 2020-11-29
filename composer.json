@@ -1,0 +1,15 @@
+{
+  "name": "preya/kirby-csv-structure",
+  "description": "A plugin for Kirby, which turns a csv file into a structure field, which can be read and written to.",
+  "type": "kirby-plugin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Moritz Stueckler"
+    }
+  ],
+  "require": {
+    "league/csv": "^9.6"
+  }
+}
